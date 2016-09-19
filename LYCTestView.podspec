@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-s.name = 'LYCCollectionUse'
+s.name = 'LYCTestView'
 s.version = '1.0.0'
 s.license = 'MIT'
 s.summary = 'A Text in iOS.'
